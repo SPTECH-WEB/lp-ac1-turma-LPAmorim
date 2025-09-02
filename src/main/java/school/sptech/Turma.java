@@ -57,7 +57,7 @@ public class Turma {
         }else return false;
     }
 
-    // getters
+    // getters...
     public String getNome(){
         return nome;
     }
